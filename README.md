@@ -1,29 +1,32 @@
 # 👋 Fernando Daniel De La Cruz Carmona
 
 **Data Science Undergraduate | IT Data Engineering Intern at PepsiCo**  
-*Turning data into scalable, analytics-ready solutions that drive informed decision-making.*
+*Passionate about uncovering the knowledge hidden in data and building tools that make it accessible to the people who need it most.*
 
 ---
 
 ## 🧠 About Me
-I am a **Data Science undergraduate** at **ESCOM – Instituto Politécnico Nacional (IPN)**, with an expected graduation in **2026**. I am particularly interested in applying data science to **logistics, finance, and enterprise analytics**, where data-driven solutions can optimize processes and support strategic decision-making.
 
-My background combines **data analysis, statistics, and machine learning** with hands-on project development. I am motivated by transforming raw data into **reliable, interpretable, and high-impact solutions** that generate measurable business value.
+I am a **Data Science undergraduate** at **ESCOM – Instituto Politécnico Nacional (IPN)**, currently interning at **PepsiCo's Global Data & AI team**, where I work with Azure-based data platforms, AI agents, and pipeline monitoring at an enterprise scale. I am passionate about uncovering the knowledge hidden in data and building tools that make that knowledge accessible to people who need it most.
 
 ---
 
 ## 🏢 Current Experience
-**IT Data Engineering Intern — PepsiCo**  
-*Mexico City Metropolitan Area · Hybrid*
 
-- Collaborating on the design and implementation of data engineering solutions that integrate operational systems with analytics platforms.
-- Optimizing data availability, consistency, and efficiency at an enterprise level to support analytics and business intelligence initiatives.
-- Working with structured data, automation, and reporting workflows within an IT environment.
+**IT Data Engineering Intern — PepsiCo**
+*Mexico City Metropolitan Area · Hybrid · Oct 2025 – Present*
+
+- Built an **AI agent** connected to **Microsoft Fabric** capable of refreshing Power BI datasets, sending alerts to Teams channels, and triggering email notifications, all through natural language.
+- Monitor and analyze the execution of **50+ daily production data pipelines**, ensuring data availability for financial and operational reporting.
+- Implement **automated failure alerts** across **Azure Data Factory**, **Microsoft Fabric**, and **Databricks**, improving incident visibility and response time.
+- Perform **SQL-based data validation** and execution log analysis to detect inconsistencies and prevent downstream reporting issues.
+- Develop **KQL-based monitoring solutions** in **Azure Log Analytics** to analyze Databricks job execution logs, identifying high-risk pipelines through failure rate and time-to-failure analysis.
 
 ---
 
 ## 📌 Featured Project
-**Retail Store Sales Dashboard**  
+
+**Retail Store Sales Dashboard**
 *Personal Project*
 
 - Processed and cleaned **12,500+ sales records** using Python (Pandas, NumPy) to enable structured analysis.
@@ -35,9 +38,10 @@ My background combines **data analysis, statistics, and machine learning** with 
 ---
 
 ## 🎓 Education
-**Instituto Politécnico Nacional (IPN)**  
-**BSc in Data Science — ESCOM**  
-*2022 – 2026 (Expected)*
+
+**Instituto Politécnico Nacional (IPN)**
+**BSc in Data Science — ESCOM**
+*2022 – 2027 (Expected)*
 
 ---
 
@@ -55,55 +59,52 @@ My background combines **data analysis, statistics, and machine learning** with 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ### 📊 Data Visualization & BI
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Mining-5DADE2?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
 
 ## 📜 Certifications
+
 - **Prompt Design in Vertex AI** — Google Cloud Skills Boost (2025)
 - **English B2 (MCER)** — CELEX IPN
 
 ---
 
-## 🤝 Soft Skills & Leadership
+## 🤝 Programs & Leadership
+
 - **INROADS México Program**
-- Leadership
-- Critical Thinking
-- Problem Solving
-- Collaboration & Teamwork
-- Adaptability and Proactivity
 
 ---
 
 ## 📬 Contact
+
 <p align="left">
   <a href="https://github.com/DaniC01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/fernando-daniel-d-65186632b">
+  <a href="https://www.linkedin.com/in/danicarmonad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
